@@ -208,7 +208,7 @@
 }
 .tm-bg-cont {
   background-color: var(--background2);
-  padding: 0px 0;
+  padding: 110px 0;
 }
 .tm-cont {
   display: grid;
@@ -233,7 +233,7 @@
   object-fit: cover;
 }
 .tm-item2 {
-  padding: 80px 0;
+  padding: 0px 0;
 }
 .para-style1 {
   letter-spacing: 0.05em;
