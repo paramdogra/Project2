@@ -39,5 +39,3 @@ function changeHeader(){
 window.addEventListener('scroll', changeHeader);
 
 
-
-
