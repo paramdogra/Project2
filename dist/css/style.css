@@ -386,7 +386,7 @@ body {
   flex-wrap: nowrap;
 }
 
-@media (max-width: 1000px) and (min-width: 801px) {
+@media (max-width: 1000px) and (min-width: 768px) {
   .width-90 {
     width: 95%;
   }
