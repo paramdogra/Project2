@@ -208,7 +208,7 @@
 }
 .tm-bg-cont {
   background-color: var(--background2);
-  padding: 110px 0;
+  padding: 0px 0;
 }
 .tm-cont {
   display: grid;
@@ -374,6 +374,16 @@ body {
 
 .footer-anchor{
   color:#111
+}
+
+
+.banner-item6 {
+  padding-left: 100px;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  justify-content: space-between;
+  flex-wrap: nowrap;
 }
 
 @media (max-width: 1000px) and (min-width: 801px) {
